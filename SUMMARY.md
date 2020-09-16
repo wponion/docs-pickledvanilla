@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🥒 PickledVanilla](README.md)
+* [PickledVanilla](README.md)
 
 ## Developer Guides
 
