@@ -1,4 +1,4 @@
 # Table of contents
 
-* [What is it ?](README.md)
+* [🥒 PickledVanilla](README.md)
 
