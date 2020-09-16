@@ -6,9 +6,9 @@ description: '~~ Simple, Lightweight Wrapper For Vanilla JS  ~~'
 
 ## What is it & Why Another Library
 
-PickledVanilla is an absurdly small jQuery alternative for modern browsers \(IE11+\) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chainable methods at a fraction of the file size. 100% feature parity with jQuery isn't a goal, but PickledVanilla comes helpfully close, covering most day to day use cases.
+PickledVanilla is an absurdly small jQuery alternative for modern browsers \(IE11+\) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chain-able methods at a fraction of the file size. 100% feature parity with jQuery isn't a goal, but PickledVanilla comes helpfully close, covering most day to day use cases.
 
-Well as a web developer i wanted to move out from jQuery and use Vanilla JS when i realized it i found that i had to repeate few lins of code every time i need to do some actions. so instead i just created as a library. 
+Well as a web developer i wanted to move out from jQuery and use Vanilla JS when i realized it i found that i had to repeat few lines of code every time i need to do some actions. so instead i just created as a library. 
 
 ## [Comparison](https://hmble.github.io/cash/#/?id=comparison)⚖ 
 
