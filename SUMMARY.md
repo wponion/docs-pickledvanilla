@@ -7,7 +7,9 @@
 ---
 
 * [Animation](animation.md)
-* [Attributes](attributes.md)
+* [Attributes](attributes/README.md)
+  * [addClass](attributes/addclass.md)
+  * [attr](attributes/attr.md)
 * [Collection](collection.md)
 * [CSS](css.md)
 * [Data](data.md)
