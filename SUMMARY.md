@@ -4,7 +4,20 @@
 
 ## Collection Methods
 
-* [Untitled](collection-methods/untitled.md)
+---
+
+* [Animation](animation.md)
+* [Attributes](attributes.md)
+* [Collection](collection.md)
+* [CSS](css.md)
+* [Data](data.md)
+* [Dimensions](dimensions.md)
+* [Effects](effects.md)
+* [Events](events.md)
+* [Forms](forms.md)
+* [Manipulation](manipulation.md)
+* [Offset](offset.md)
+* [Traversal](traversal.md)
 
 ## Static Methods
 
