@@ -8,6 +8,8 @@
 
 ## Static Methods
 
+* [String](static-methods/string/README.md)
+  * [camelCase](static-methods/string/camelcase.md)
 * [Utilities](static-methods/utilities/README.md)
   * [extend](static-methods/utilities/extend.md)
   * [each](static-methods/utilities/each.md)
