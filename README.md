@@ -30,28 +30,14 @@ Well as a web developer i wanted to move out from jQuery and use Vanilla JS when
 | Namespaced Events | ✔ | ️❌ | ✔ |
 
 {% hint style="warning" %}
-If you're migrating from jQuery be sure to read our [migration guide](https://github.com/fabiospampinato/cash/blob/master/docs/migration_guide.md).
+If you're migrating from jQuery be sure to read our [migration guide](developer-guides/migration-guide.md).
 {% endhint %}
 
-## Usage
-
-
-
-
-
-### 📝 Changelog
-
-All notable changes to this project will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-
-[Checkout CHANGELOG.md](https://github.com/wponion/PickledVanilla/blob/master/CHANGELOG.md)
-
-### 🤝 Contributing
+## 🤝 Contributing
 
 If you would like to help, please take a look at the list of [issues](https://github.com/wponion/PickledVanilla/blob/master/issues).
 
-### 💰 Sponsor
+## 💰 Sponsor
 
 [I](https://sva.onl/twitter/) fell in love with open-source in 2013 and there has been no looking back since! You can read more about me [here](https://sva.onl/website/). If you, or your company, use any of my projects or like what I’m doing, kindly consider backing me. I'm in this for the long run.
 
@@ -60,17 +46,17 @@ If you would like to help, please take a look at the list of [issues](https://gi
 * 🔰 We love bettering open-source projects. Support 1-hour of open-source maintenance for [**$24.99 one-time?**](https://sva.onl/paypal)
 * 🚀 Love open-source tools? Me too! How about supporting one hour of open-source development for just [**$49.99 one-time ?**](https://sva.onl/paypal)
 
-### 📜 License & Conduct
+## 📜 License & Conduct
 
 * [**MIT**](https://github.com/wponion/PickledVanilla/blob/master/LICENSE) © [Varun Sridharan](https://github.com/wponion/PickledVanilla/blob/master/website)
 * [Code of Conduct](https://github.com/wponion/PickledVanilla/blob/master/code-of-conduct.md)
 
-### 📣 Feedback
+## 📣 Feedback
 
 * ⭐ This repository if this project helped you!😉
 * Create An[🔧 Issue](https://github.com/wponion/PickledVanilla/blob/master/issues) if you need help / found a bug
 
-### Connect & Say👋
+## Connect & Say👋
 
 * **Follow** me on[👨‍💻 Github](https://sva.onl/github/) and stay updated on free and open-source software
 * **Follow** me on[🐦 Twitter](https://sva.onl/twitter/) to get updates on my latest open source projects
