@@ -4,22 +4,21 @@
 
 ## Collection Methods
 
----
-
-* [Animation](animation.md)
-* [Attributes](attributes/README.md)
-  * [addClass](attributes/addclass.md)
-  * [attr](attributes/attr.md)
-* [Collection](collection.md)
-* [CSS](css.md)
-* [Data](data.md)
-* [Dimensions](dimensions.md)
-* [Effects](effects.md)
-* [Events](events.md)
-* [Forms](forms.md)
-* [Manipulation](manipulation.md)
-* [Offset](offset.md)
-* [Traversal](traversal.md)
+* [Animation](collection-methods/animation.md)
+* [Attributes](collection-methods/attributes/README.md)
+  * [addClass](collection-methods/attributes/addclass.md)
+  * [attr](collection-methods/attributes/attr.md)
+* [Collection](collection-methods/collection/README.md)
+  * [pickledvanilla](collection-methods/collection/untitled.md)
+* [CSS](collection-methods/css.md)
+* [Data](collection-methods/data.md)
+* [Dimensions](collection-methods/dimensions.md)
+* [Effects](collection-methods/effects.md)
+* [Events](collection-methods/events.md)
+* [Forms](collection-methods/forms.md)
+* [Manipulation](collection-methods/manipulation.md)
+* [Offset](collection-methods/offset.md)
+* [Traversal](collection-methods/traversal.md)
 
 ## Static Methods
 
