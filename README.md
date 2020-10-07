@@ -1,5 +1,5 @@
 ---
-description: ~~ Lightweight Wrapper For Vanilla JS  ~~
+description: ~ Lightweight Wrapper For Vanilla JS  ~
 ---
 
 # domQ
