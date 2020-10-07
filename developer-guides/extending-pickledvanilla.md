@@ -14,7 +14,7 @@ This is how you can add an hypothetical `foo` method to domQ collections:
 {% tab title="Vanilla Javascript" %}
 ```javascript
 ( function( window ) {
-	window.wpopv.fn.foo = function() {
+	window.domQ.fn.foo = function() {
 		return this;
 	};
 } )( window );
@@ -23,9 +23,9 @@ This is how you can add an hypothetical `foo` method to domQ collections:
 
 {% tab title="ES Module" %}
 ```javascript
-import fn from "pickledvanilla/setup";
+import domQ from "domQ";
 
-fn.foo = function() {
+domQ.fn.foo = function() {
 	return this;
 };
 ```
@@ -35,7 +35,7 @@ fn.foo = function() {
 ### Function Callback / Usage
 
 ```text
-wpopv('*').foo();
+domQ('*').foo();
 ```
 
 ## Static Method
@@ -48,7 +48,7 @@ This is how you can add an hypothetical `calcNumbers` static method to the Cash 
 {% tab title="Vanilla Javascript" %}
 ```javascript
 ( function( window ) {
-	window.wpopv.calcNumbers = function( number1, number2 ) {
+	window.domQ.calcNumbers = function( number1, number2 ) {
 		return ( number1 + number2 );
 	};
 } )( window );
@@ -58,9 +58,9 @@ This is how you can add an hypothetical `calcNumbers` static method to the Cash 
 
 {% tab title="ES Module" %}
 ```javascript
-import wpopv from "pickledvanilla";
+import domQ from "domQ";
 
-wpopv.calcNumbers = function( number1, number2 ) {
+domQ.calcNumbers = function( number1, number2 ) {
 	return ( number1 + number2 );
 };
 ```
@@ -70,6 +70,6 @@ wpopv.calcNumbers = function( number1, number2 ) {
 ### Function Callback / Usage
 
 ```javascript
-wpopv.calcNumbers(10 + 2); // returns as 12
+domQ.calcNumbers(10 + 2); // returns as 12
 ```
 

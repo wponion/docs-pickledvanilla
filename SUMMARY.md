@@ -1,6 +1,6 @@
 # Table of contents
 
-* [domQ](README.md)
+* [Getting Started](README.md)
 
 ## Collection Methods
 
