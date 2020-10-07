@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PickledVanilla](README.md)
+* [domQ](README.md)
 
 ## Collection Methods
 
@@ -9,7 +9,7 @@
   * [addClass](collection-methods/attributes/addclass.md)
   * [attr](collection-methods/attributes/attr.md)
 * [Collection](collection-methods/collection/README.md)
-  * [Untitled](collection-methods/collection/untitled.md)
+  * [pickledvanilla](collection-methods/collection/untitled.md)
 * [CSS](collection-methods/css.md)
 * [Data](collection-methods/data.md)
 * [Dimensions](collection-methods/dimensions.md)

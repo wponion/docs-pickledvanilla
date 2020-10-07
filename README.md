@@ -1,8 +1,8 @@
 ---
-description: '~~ Simple, Lightweight Wrapper For Vanilla JS  ~~'
+description: ~~ Lightweight Wrapper For Vanilla JS  ~~
 ---
 
-# PickledVanilla
+# domQ
 
 ## What is it & Why Another Library
 
