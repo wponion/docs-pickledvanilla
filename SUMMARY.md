@@ -8,8 +8,7 @@
 * [Attributes](collection-methods/attributes/README.md)
   * [addClass](collection-methods/attributes/addclass.md)
   * [attr](collection-methods/attributes/attr.md)
-* [Collection](collection-methods/collection/README.md)
-  * [pickledvanilla](collection-methods/collection/untitled.md)
+* [Collection](collection-methods/collection.md)
 * [CSS](collection-methods/css.md)
 * [Data](collection-methods/data.md)
 * [Dimensions](collection-methods/dimensions.md)
@@ -53,7 +52,7 @@
 ## Developer Guides
 
 * [Migration Guide](developer-guides/migration-guide.md)
-* [Extending PickledVanilla](developer-guides/extending-pickledvanilla.md)
+* [Extending domQ](developer-guides/extending-pickledvanilla.md)
 
 ---
 

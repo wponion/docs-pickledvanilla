@@ -1,12 +1,12 @@
-# Extending PickledVanilla
+# Extending domQ
 
-PickledVanilla can be extended, adding custom methods to PickledVanilla collections or custom static methods to the PickledVanilla object.
+domQ can be extended, adding custom methods to domQ collections or custom static methods to the domQ object.
 
 If you're writing JavaScript the way to do it is exactly the same as what you'd do for extending jQuery
 
 ## Collection Method
 
-This is how you can add an hypothetical `foo` method to PickledVanilla collections:
+This is how you can add an hypothetical `foo` method to domQ collections:
 
 ### Function Declaration
 

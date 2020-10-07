@@ -6,13 +6,13 @@ description: ~~ Lightweight Wrapper For Vanilla JS  ~~
 
 ## What is it & Why Another Library
 
-PickledVanilla is an absurdly small jQuery alternative for modern browsers \(IE11+\) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chain-able methods at a fraction of the file size. 100% feature parity with jQuery isn't a goal, but PickledVanilla comes helpfully close, covering most day to day use cases.
+domQ is an absurdly small jQuery alternative for modern browsers \(IE11+\) that provides jQuery-style syntax for manipulating the DOM. Utilizing modern browser features to minimize the codebase, developers can use the familiar chain-able methods at a fraction of the file size. 100% feature parity with jQuery isn't a goal, but domQ comes helpfully close, covering most day to day use cases.
 
 Well as a web developer i wanted to move out from jQuery and use Vanilla JS when i realized it i found that i had to repeat few lines of code every time i need to do some actions. so instead i just created as a library. 
 
 ## [Comparison](https://hmble.github.io/cash/#/?id=comparison)⚖ 
 
-| Size | _**PickledVanilla**_ | Zepto 1.2.0 | jQuery Slim 3.4.1 |
+| Size | domQ | Zepto 1.2.0 | jQuery Slim 3.4.1 |
 | :---: | :---: | :---: | :---: |
 | Unminified | **34.9 KB** | 58.7 KB | 227 KB |
 | Minified | **15.3 KB** | 26 KB | 71 KB |
@@ -22,7 +22,7 @@ Well as a web developer i wanted to move out from jQuery and use Vanilla JS when
  A **76.6%** gain in size reduction compared to jQuery.
 {% endhint %}
 
-| Features | _**PickledVanilla**_ | Zepto 1.2.0 | jQuery Slim 3.4.1 |
+| Features | domQ | Zepto 1.2.0 | jQuery Slim 3.4.1 |
 | :--- | :--- | :--- | :--- |
 | Supports Older Browsers | ❌ | ️❌ | ✔ |
 | Supports Modern Browsers | ✔ | ️✔ | ✔ |
